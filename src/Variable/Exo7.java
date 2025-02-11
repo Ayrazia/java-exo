@@ -1,3 +1,5 @@
+package Variable;
+
 public class Exo7 {
     public static void main(String[] args) {
 

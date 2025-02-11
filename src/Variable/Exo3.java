@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package Variable;
+
 import java.util.ArrayList;
 
 public class Exo3 {
@@ -7,6 +8,8 @@ public class Exo3 {
         char Letter = 'A';
 
         int MyCode = 121;
+
+        float f = 3.14f;
 
         double x = 3.14;
 

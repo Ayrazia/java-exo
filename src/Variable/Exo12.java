@@ -1,3 +1,5 @@
+package Variable;
+
 public class Exo12 {
 
     public static void main(String[] args) {
